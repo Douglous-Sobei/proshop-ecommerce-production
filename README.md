@@ -7,14 +7,23 @@ Technologies Used
 The ProShop e-commerce web application utilizes the following technologies:
 
 Django: A powerful Python web framework that enables rapid development and clean design.
+
 React: A JavaScript library for building dynamic and interactive user interfaces using reusable components.
+
 JavaScript: A versatile scripting language used to enhance interactivity and functionality on web pages.
+
 Bootstrap: A popular front-end framework for creating responsive and visually appealing websites.
+
 PostgreSQL: A robust and open-source relational database management system used to store and retrieve data efficiently.
+
 Redux: A predictable state container for JavaScript apps, providing a centralized and scalable state management solution.
+
 Amazon Web Services (AWS): A comprehensive cloud services platform utilized for hosting and managing the application.
+
 Heroku: A cloud-based platform that simplifies application deployment and scaling.
+
 Git: A distributed version control system used for tracking changes and collaborating on the source code.
+
 HTML/CSS: Fundamental web technologies used for structuring and styling web pages.
 
 Installation and Setup
@@ -25,16 +34,20 @@ Clone the repository:
 git clone https://github.com/Douglous-Sobei/proshop-ecommerce-production.git
 
 Install the required dependencies. Make sure you have Python installed on your system. Use the package managers pip and npm to install the dependencies.
+
 pip install -r requirements.txt
+
 npm install
 
 Configure the environment variables. Create a .env file in the project root directory and set the following variables:
+
 SECRET_KEY=your_secret_key
 DEBUG=True
 DATABASE_URL=your_database_url
 STRIPE_API_KEY=your_stripe_api_key
 
 Apply the database migrations:
+
 python manage.py migrate
 Start the development server:
 python manage.py runserver
