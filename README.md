@@ -3,6 +3,7 @@
 ProShop is a comprehensive and feature-rich e-commerce web application built using Django, React, JavaScript, Bootstrap, PostgreSQL, Redux, and other technologies. It provides users with a seamless online shopping experience, incorporating essential e-commerce functionalities such as product browsing, searching, purchasing, user authentication, and secure payment processing. The application leverages various tools and platforms like Amazon Web Services (AWS), Heroku, Git, HTML/CSS, and more to deliver a robust and scalable solution.
 
 Technologies Used
+
 The ProShop e-commerce web application utilizes the following technologies:
 
 Django: A powerful Python web framework that enables rapid development and clean design.
@@ -17,7 +18,9 @@ Git: A distributed version control system used for tracking changes and collabor
 HTML/CSS: Fundamental web technologies used for structuring and styling web pages.
 
 Installation and Setup
+
 To run the ProShop e-commerce web application locally, follow these steps:
+
 Clone the repository:
 git clone https://github.com/Douglous-Sobei/proshop-ecommerce-production.git
 
@@ -38,6 +41,7 @@ python manage.py runserver
 Open your browser and navigate to http://localhost:8000 to access the ProShop web application.
 
 Installed Apps
+
 The following Django apps have been installed in ProShop:
 django.contrib.admin: Enables the Django admin interface for managing the application's models and data.
 django.contrib.auth: Provides user authentication functionality.
@@ -51,15 +55,18 @@ storages: Provides a collection of custom storage backends for Django, facilitat
 base.apps.BaseConfig: The main Django app for the ProShop web application.
 
 Deployment
+
 The ProShop e-commerce web application can be deployed using platforms like Heroku and Amazon Web Services (AWS). Follow the respective documentation for detailed instructions on deploying Django and React applications.
 
 License
 
 
 Contributing
+
 Contributions to this project are welcome. To contribute, please follow the guidelines outlined in ....
 
 Contact
+
 If you have any questions or feedback, feel free to reach out to us at anyallu2@gmail.com and douglousmangoyi@gmail.com. We would be happy to assist you.
 
 Thank you for using the ProShop e-commerce web application!
