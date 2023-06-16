@@ -3,32 +3,32 @@
 ProShop is a comprehensive and feature-rich e-commerce web application built using Django, React, JavaScript, Bootstrap, PostgreSQL, Redux, and other technologies. It provides users with a seamless online shopping experience, incorporating essential e-commerce functionalities such as product browsing, searching, purchasing, user authentication, and secure payment processing. The application leverages various tools and platforms like Amazon Web Services (AWS), Heroku, Git, HTML/CSS, and more to deliver a robust and scalable solution.
 
 
-Technologies Used
+**Technologies Used**
 
 The ProShop e-commerce web application utilizes the following technologies:
 
-Django: A powerful Python web framework that enables rapid development and clean design.
+**Django**: A powerful Python web framework that enables rapid development and clean design.
 
-React: A JavaScript library for building dynamic and interactive user interfaces using reusable components.
+**React**: A JavaScript library for building dynamic and interactive user interfaces using reusable components.
 
-JavaScript: A versatile scripting language used to enhance interactivity and functionality on web pages.
+**JavaScript**: A versatile scripting language used to enhance interactivity and functionality on web pages.
 
-Bootstrap: A popular front-end framework for creating responsive and visually appealing websites.
+**Bootstrap**: A popular front-end framework for creating responsive and visually appealing websites.
 
-PostgreSQL: A robust and open-source relational database management system used to store and retrieve data efficiently.
+**PostgreSQL**: A robust and open-source relational database management system used to store and retrieve data efficiently.
 
-Redux: A predictable state container for JavaScript apps, providing a centralized and scalable state management solution.
+**Redux**: A predictable state container for JavaScript apps, providing a centralized and scalable state management solution.
 
-Amazon Web Services (AWS): A comprehensive cloud services platform utilized for hosting and managing the application.
+**Amazon Web Services (AWS)**: A comprehensive cloud services platform utilized for hosting and managing the application.
 
-Heroku: A cloud-based platform that simplifies application deployment and scaling.
+**Heroku**: A cloud-based platform that simplifies application deployment and scaling.
 
-Git: A distributed version control system used for tracking changes and collaborating on the source code.
+**Git**: A distributed version control system used for tracking changes and collaborating on the source code.
 
-HTML/CSS: Fundamental web technologies used for structuring and styling web pages.
+**HTML/CSS**: Fundamental web technologies used for structuring and styling web pages.
 
 
-Installation and Setup
+**Installation and Setup**
 
 To run the ProShop e-commerce web application locally, follow these steps:
 
