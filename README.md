@@ -89,7 +89,11 @@ base.apps.BaseConfig: The main Django app for the ProShop web application.
 
 Deployment
 
-The ProShop e-commerce web application can be deployed using platforms like Heroku and Amazon Web Services (AWS). Follow the respective documentation for detailed instructions on deploying Django and React applications.  For more information follow https://devcenter.heroku.com/articles/github-integration to view the deployment process
+The ProShop e-commerce web application can be deployed using platforms like Heroku and Amazon Web Services (AWS). Follow the respective documentation for detailed instructions on deploying Django and React applications.  
+
+See the deployed link here: https://proshop-products.herokuapp.com/
+
+For more information follow https://devcenter.heroku.com/articles/github-integration to view the deployment process
 
 
 License
