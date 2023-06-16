@@ -100,6 +100,6 @@ Contributions to this project are welcome. To contribute, please follow the guid
 
 Contact
 
-If you have any questions or feedback, feel free to reach out to us at anyallu2@gmail.com and douglousmangoyi@gmail.com. We would be happy to assist you.
+If you have any questions or feedback, feel free to reach out to us at anyallu2@gmail.com and douglousmangoyi@gmail.com. We would be happy to assist you. for more information follow https://devcenter.heroku.com/articles/github-integration to view the deployment process
 
 Thank you for using the ProShop e-commerce web application!
