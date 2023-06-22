@@ -22,7 +22,7 @@ def getProducts(request):
         name__icontains=query).order_by('createAt')
 
     page = request.query_params.get('page', 1)
-    paginator = Paginator(products, 3)
+    paginator = Paginator(products, 4)
 
     try:
         products = paginator.page(page)
