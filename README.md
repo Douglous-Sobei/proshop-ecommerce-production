@@ -91,7 +91,7 @@ Deployment
 
 The ProShop e-commerce web application can be deployed using platforms like Railway and Amazon Web Services (AWS). Follow the respective documentation for detailed instructions on deploying Django and React applications.  
 
-See the deployed link here: [[https://proshop-ecommerce-production-ba7c.up.railway.app/]](https://proshop-ecommerce-production-ba7c.up.railway.app/)
+See the deployed link here: [https://proshop-ecommerce-production-ba7c.up.railway.app/](https://proshop-ecommerce-production-ba7c.up.railway.app/)
 
 For more information follow https://devcenter.heroku.com/articles/github-integration to view the deployment process
 
