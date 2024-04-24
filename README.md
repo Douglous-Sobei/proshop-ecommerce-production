@@ -21,7 +21,7 @@ The ProShop e-commerce web application utilizes the following technologies:
 
 **Amazon Web Services (AWS)**: A comprehensive cloud services platform utilized for hosting and managing the application.
 
-**Heroku**: A cloud-based platform that simplifies application deployment and scaling.
+**Railway**: A cloud-based platform that simplifies application deployment and scaling.
 
 **Git**: A distributed version control system used for tracking changes and collaborating on the source code.
 
@@ -89,9 +89,9 @@ base.apps.BaseConfig: The main Django app for the ProShop web application.
 
 Deployment
 
-The ProShop e-commerce web application can be deployed using platforms like Heroku and Amazon Web Services (AWS). Follow the respective documentation for detailed instructions on deploying Django and React applications.  
+The ProShop e-commerce web application can be deployed using platforms like Railway and Amazon Web Services (AWS). Follow the respective documentation for detailed instructions on deploying Django and React applications.  
 
-See the deployed link here: https://proshop-products.herokuapp.com/
+See the deployed link here: [[https://proshop-ecommerce-production-ba7c.up.railway.app/]](https://proshop-ecommerce-production-ba7c.up.railway.app/)
 
 For more information follow https://devcenter.heroku.com/articles/github-integration to view the deployment process
 
